@@ -21,7 +21,7 @@
       }
     },
     "versionFirst": "3.10.4",
-    "uniqCompNum": 18,
+    "uniqCompNum": 19,
     "versionPublish": "3.10.4"
   },
   "pages": {
@@ -64,7 +64,7 @@
             "timeout": 5,
             "slides": [
               {
-                "active": false,
+                "active": true,
                 "image": "@THEME_PATH@/components/_images/slider/man-back.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
@@ -78,7 +78,7 @@
                 "buttons": "<a data-app-btn=\"true\" class=\"btn btn-lg btn-success\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Subscribe for latest deals</a> <a data-app-btn=\"true\" class=\"btn btn-lg btn-white btn-white-outline\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Send your ideas for customisation</a>"
               },
               {
-                "active": true,
+                "active": false,
                 "image": "@THEME_PATH@/components/_images/slider/bridge.jpg",
                 "playVideo": true,
                 "videoUrl": "https://www.youtube.com/watch?v=uNCr7NdOJgw",
